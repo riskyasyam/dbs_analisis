@@ -1,1 +1,1 @@
-https://riskyasyam-data.streamlit.app/
+https://riskyasyamdashboard.streamlit.app
